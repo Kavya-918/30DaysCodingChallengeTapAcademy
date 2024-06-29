@@ -1,12 +1,16 @@
 /*
- * Write a program that checks whether a given integer value n ends with 0.
+ * 
+ Day 01 🚀
+
+Question:
+Write a program that checks whether a given integer value n ends with 0.
 
 Example:
 Input: 1230
 Output: Yes
 
 Your Task:
-Develop a program to check whether a given integer n ends with 0, and share your solution in the comments below! Don't forget to use the hashtag #30DaysCodeAtTAPAcademy.
+Develop a program to check whether a given integer n ends with 0.
 
  */
 
