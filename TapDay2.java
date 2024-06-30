@@ -1,3 +1,12 @@
+/*
+🚀 hashtag#30DaysCodeAtTAPAcademy Challenge - Day 02 🚀
+Question:
+Write a program that checks if a given number is a 3-digit number and divisible by both 3 and 5.
+Example:
+Input: 150
+Output: Yes, it is a 3-digit number and divisible by both 3 and 5.
+Your Task:
+Develop a program to check if the given number is a 3-digit number and divisible by both 3 and 5.*/
 import java.util.Scanner;
 public class TapDay2 {
     public static void main(String[] args) {
