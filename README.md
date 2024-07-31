@@ -8,12 +8,15 @@ Challenge Overview:
 
 Over the next 30 days, I will be solving a variety of coding problems that cover different aspects of programming, algorithms, and data structures. Each day will focus on a specific topic or type of problem to provide a comprehensive learning experience.
 
-Contributing
+Contributing:
+
 If you have any suggestions, improvements, or if you spot any issues, feel free to open an issue or create a pull request. Contributions are always welcome!
 
-License
+License:
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+Acknowledgements:
+
 Tap Academy for organizing this challenge and providing excellent resources.
 Community for support and collaboration throughout the challenge.
